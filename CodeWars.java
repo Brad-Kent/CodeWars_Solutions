@@ -229,4 +229,10 @@ public class CodeWars {
        return garden;
     }
 
+	// This class will contain all the website intermidate level challanges 
+	class intermidiate
+	{
+		// code 
+	}
+
 }
