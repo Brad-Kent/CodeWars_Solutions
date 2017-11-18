@@ -123,10 +123,6 @@ public class CodeWars {
 		}
         return answer.toString();
     }
-	
-	
-	
-	
 	public static int[][] step(int n) 
 	{
 		int index = 0;
