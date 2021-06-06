@@ -1,1 +1,1 @@
-#Baisc Code Wars solutions, written in Java ~Java 7-8
+# Baisc Code Wars solutions, written in Java ~Java 7-8
